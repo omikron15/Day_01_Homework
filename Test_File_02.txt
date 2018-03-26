@@ -1,2 +1,3 @@
-Another text file with some random text for day 1 homework
- 
+
+
+Original line 1 text deleted and this added on line 3 instead
